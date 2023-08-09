@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901828919436",
+    "project_id": "pandev-dana",
+    "storage_bucket": "pandev-dana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901828919436:android:d18cdc8c969f72e4407ba9",
+        "android_client_info": {
+          "package_name": "com.pandev.danaseru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901828919436-lc61u0r3jhlaqa1ss4ka0m0l5d94b7m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkMzDtHtx91u34729OJVkgczrAGzKlCYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901828919436-lc61u0r3jhlaqa1ss4ka0m0l5d94b7m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
